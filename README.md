@@ -1,6 +1,9 @@
 # flutter_travel_ui
 
-A new Flutter application.
+A new Flutter Application UI .
+Design:
+![image](https://user-images.githubusercontent.com/48614476/115852130-8f610480-a449-11eb-8e4e-8a064640c3a9.png)
+
 
 ## Getting Started
 
